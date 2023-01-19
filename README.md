@@ -1,7 +1,5 @@
 # Project: Weather_Condition_App
 
-![Form](weather-app.webm)
-
 ## Description
 
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
